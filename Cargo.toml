@@ -1,0 +1,11 @@
+[package]
+name = "flux-fov"
+version = "0.1.0"
+authors = ["Matti Hänninen <matti@mjhanninen.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dev-dependencies]
+rand = "0.6"
+tcod = "0.13"
