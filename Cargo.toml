@@ -3,6 +3,8 @@ name = "flux-fov"
 version = "0.1.0"
 authors = ["Matti Hänninen <matti@mjhanninen.com>"]
 edition = "2018"
+description = "Experimental field-of-vision algorithm for roguelike games"
+license = "GPL-3.0"
 
 [dependencies]
 
